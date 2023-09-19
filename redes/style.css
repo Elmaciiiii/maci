@@ -189,5 +189,28 @@ footer{
 .form-register .botons:hover {
     background-color: #111010;
     color: #fff;
-    box-shadow: 0 0 10px #18369b, 0 0 40px  #18369b, 0 0 80px  #18369b ;
+    box-shadow: 0 0 10px #60189b, 0 0 40px   #60189b, 0 0 80px  #60189b ;
   }
+
+
+
+  .tete{
+    margin-top: 25px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: rgba(0, 0, 0, 0.7);
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 10px;
+    display: block;
+    
+    
+  }
+
+  .tete:hover {
+   
+    background-color: #000000;
+    color: #fff;
+    box-shadow: 0 0 10px #5207b4, 0 0 40px #5207b4, 0 0 80px #5207b4;
+}
